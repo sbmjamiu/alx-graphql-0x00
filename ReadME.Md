@@ -49,4 +49,4 @@ character/
 ```
 
 - Each `.graphql` file contains the query for a specific character.
-- Each `.json` file contains the output of the query.
+- ## Each `.json` file contains the output of the query.
