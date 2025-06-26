@@ -4,7 +4,7 @@ This directory contains GraphQL queries and output results for fetching characte
 
 ---
 
-## 🧠 Objective
+## 📄 Query: Get a Specific Character by ID
 
 Write GraphQL queries using the `character(id: ID!)` field to retrieve specific details about characters with the following IDs:
 
